@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "fifth_task::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fifth_task-Debug-4c69c28edbbfad7af2ff.json",
+					"name" : "fifth_task",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "first_task::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-first_task-Debug-d61e51ae05799783b1e0.json",
+					"name" : "first_task",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fourth_task::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fourth_task-Debug-5828d0bb17e728bfaf7f.json",
+					"name" : "fourth_task",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_task::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_task-Debug-90737ec83a2a6125f071.json",
+					"name" : "second_task",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "third_task::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-third_task-Debug-b4d6fc3be2ceabd71a71.json",
+					"name" : "third_task",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/PSU/Logic/Labs/Lab1/cmake-build-debug",
+		"source" : "C:/PSU/Logic/Labs/Lab1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

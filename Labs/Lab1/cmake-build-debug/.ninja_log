@@ -1,0 +1,14 @@
+# ninja log v5
+4	318	7166657276491275	build.ninja	169079797ff05967
+748	914	7166568447452475	Lab1.exe	f18b71361623f7b8
+3152	3308	7166591643852900	third_task.exe	1730abd3486dc49e
+0	746	7166568445796513	CMakeFiles/Lab1.dir/main.cpp.obj	7ae899546dfef61e
+4	631	7166584606510628	CMakeFiles/first_task.dir/first_task.cpp.obj	55e9d0b225375cad
+3376	3565	7166587419202363	second_task.exe	de8048962d8e690c
+632	764	7166584607786413	first_task.exe	134e6717da53cee
+6	3375	7166587417373665	CMakeFiles/second_task.dir/second_task.cpp.obj	9462751baf0bc66b
+5	3151	7166591642357703	CMakeFiles/third_task.dir/third_task.cpp.obj	3d68b176a063be26
+5	2937	7166645395210997	CMakeFiles/fourth_task.dir/fourth_task.cpp.obj	261a284aa819e43
+2938	3083	7166645396615601	fourth_task.exe	beba36acb2029f74
+5	2876	7166656872670954	CMakeFiles/fifth_task.dir/fifth_task.cpp.obj	153e745813ddf3c6
+2877	3010	7166656873947096	fifth_task.exe	ecaec3c7004f944b
