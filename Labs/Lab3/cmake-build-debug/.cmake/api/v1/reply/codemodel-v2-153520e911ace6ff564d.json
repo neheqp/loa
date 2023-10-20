@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "firstTask::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-firstTask-Debug-54b14dfda26643667389.json",
+					"name" : "firstTask",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "secondTask::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-secondTask-Debug-de7e06075f68d4fb2f62.json",
+					"name" : "secondTask",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thirdTask::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thirdTask-Debug-da3ef4076a2426a6efdb.json",
+					"name" : "thirdTask",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/PSU/Logic/Labs/Lab3/cmake-build-debug",
+		"source" : "C:/PSU/Logic/Labs/Lab3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

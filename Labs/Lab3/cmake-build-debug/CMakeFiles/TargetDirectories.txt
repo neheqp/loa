@@ -1,0 +1,5 @@
+C:/PSU/Logic/Labs/Lab3/cmake-build-debug/CMakeFiles/firstTask.dir
+C:/PSU/Logic/Labs/Lab3/cmake-build-debug/CMakeFiles/secondTask.dir
+C:/PSU/Logic/Labs/Lab3/cmake-build-debug/CMakeFiles/thirdTask.dir
+C:/PSU/Logic/Labs/Lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/PSU/Logic/Labs/Lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
