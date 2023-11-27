@@ -1,0 +1,3 @@
+﻿  firstTask.cpp
+C:\PSU\Logic\Labs\Lab5\Lab5\firstTask.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab5.vcxproj -> C:\PSU\Logic\Labs\Lab5\x64\Debug\Lab5.exe
